@@ -1846,13 +1846,64 @@ form p{
     justify-content: center;
     
 }
-
-
-
-
-
-
-
+.site__footer{
+    margin-top: 150px;
+}
+.text500{
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.text501{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.text501 h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #656566;
+    margin-bottom: 15px;
+}
+.text501 a{
+    display: flex;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #E4E5EA;
+    margin-bottom: 10px;
+}
+.text502{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+.text502 a{
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #E4E5EA;
+    margin-bottom: 10px;
+}
+.text501 .telegram-icon{
+    gap: 15px;
+}
+.text501 a i{
+    font-size: 20px;
+    gap: 20px;
+}
 
 
 
